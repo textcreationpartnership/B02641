@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettre a son altesse Monseigneur le Duc de Monmouth. Par le Sieur des-Chants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02641</idno>
+            <idno type="STC">Wing D1137B</idno>
+            <idno type="STC">ESTC R174614</idno>
+            <idno type="EEBO-CITATION">51784479</idno>
+            <idno type="OCLC">ocm 51784479</idno>
+            <idno type="VID">174894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174894)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2704:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lettre a son altesse Monseigneur le Duc de Monmouth. Par le Sieur des-Chants.</title>
+               </titleStmt>
+               <extent>[3], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprimeé par Tho: Nieucomb, pour Andre ́Forrester ...,</publisher>
+                  <pubPlace>[London] A la Savoye, :</pubPlace>
+                  <date>M.DC.LXXVII. [1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: dark, stained, with some loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="license">
+            <pb facs="tcp:174894:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 99 -->
+            <p>Licenſed, Tueſday, <hi>Jan.</hi> 22.</p>
+            <p>
+               <hi>ROGER L'ESTRANGE.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:174894:1"/>
+            <!-- PDF PAGE 99 -->
+            <p>LETTRE A SON ALTESSE Monſeigneur le Duc DE MONMOUTH.</p>
+            <p>
+               <hi>Par le Sieur DES-CHANTS.</hi>
+            </p>
+            <p>A LA SAVOYE, <hi>Imprimée par</hi> Tho: Nieucomb, <hi>pour</hi> André Forreſter <hi>dans</hi> King-ſtreet Weſtminſter. M.DC.LXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174894:2"/>
+            <!-- PDF PAGE 100 -->
+            <pb n="1" facs="tcp:174894:2"/>
+            <!-- PDF PAGE 100 -->
+            <head>A Son Alteſſe MONSEIGNEUR LE DUC DE MONMOUTH.</head>
+            <opener>
+               <salute>MONSEIGNEUR,</salute>
+            </opener>
+            <p>JE ne ſçay ſi V. A. approuuera le Zéle, auec le quel je luy offre cet ouurage, puiſque tout ce qui vient d'vne perſonne auſsi peu conſiderable que moy doit eſtre indigne d'Elle. Neantmoins je me perſuade que ſi Elle veut ſe donner la peine de jetter les yeux deſſus, Elle demeureta d'acord que je ne pouuois pas me diſpenſer de le luy offrir, puiſque je le tiens d'Elle, &amp; qu'il luy doit retourner.</p>
+            <pb n="2" facs="tcp:174894:3"/>
+            <!-- PDF PAGE 101 -->
+            <q>
+               <l>J'acheuois de payer mon tribut à Morphée,</l>
+               <l>Et l'Aurore éveillée</l>
+               <l>Auoit chaſſé la nuict,</l>
+               <l>Lors qu'éloigné du bruict,</l>
+               <l>Le Phantoſme viuant d'vn Mortel Adorable</l>
+               <l>Vint s'offrir à mes yeux:</l>
+               <l>Il vous est ſi ſemblable,</l>
+               <l>Qu'on peut ſans ſe tromper, ne faire qu'vn des deux.</l>
+            </q>
+            <p>Les autres jetrent de la terreur dans les eſprits, quelques perſonnes qu'ils puiſſent repreſenter: mais celuy-cy me parût ſi charmant &amp; ſi beau, que la crainte de perdre ſon idée, &amp; d'eſtre priué de la plus agreable choſe du monde me fit ſans, perdre tems, re<g ref="char:EOLhyphen"/>courir à la plume, pour en conſeruer les traits. Voicy tout ce que ma plus grande application me fit re<g ref="char:EOLhyphen"/>marquer de luy.</p>
+            <p>Son AIR n'auoit rien que de Grand, de Ma<g ref="char:EOLhyphen"/>jeſtueux, &amp; pourtant de Modeſte. Je n'y reconus point cette affectation que beaucoup de gens étu<g ref="char:EOLhyphen"/>dient, pour faire baiſſer deuant ſoy les ye ux de qui<g ref="char:EOLhyphen"/>conque les regarde, &amp; pour arracher, pour ainſy dire, le reſpect de tout le monde. Tout y pareſſoit,
+<pb n="3" facs="tcp:174894:3"/>
+               <!-- PDF PAGE 101 -->libre, natured &amp; non forcé auſſy je ne me fis aucune violence pour luy rendre tous mes reſpects &amp; tous mes hommages.</p>
+            <q>
+               <l>Les Grands, pour la plus part, ont tous cette baſſeſſe,</l>
+               <l>Du moins, cette foibleſſe</l>
+               <l>De contraindre les coeurs &amp; de forcer les yeux</l>
+               <l>A ſe proſterner deuant eux:</l>
+               <l>Mais ceux dont l'ame est céleſte &amp; Diuine,</l>
+               <l>Auſſi bien que leur origine,</l>
+               <l>Ces mortels Demi-Dieux</l>
+               <l>S'éleuent au deſſus de ces ames vulgaires,</l>
+               <l>Et par vn noble inſtinct que leur donnent les Cieux,</l>
+               <l>Ils enleuent les coeurs, ils éleuent les yeux</l>
+               <l>De ceux dont leur vertu ſe fait des tributaires.</l>
+            </q>
+            <p>C'eſt ce qui me charma d'abord en luy, &amp; ce qui me donna lieu d'apliquer ma veüe à le contempler auec atention.</p>
+            <p>Son ASPECT doux &amp; graue, où j'apperceus vne affable Fierté, me fit auſſi-toſt juger qu'il ſor<g ref="char:EOLhyphen"/>toit d'vne race illuſtre &amp; vertueuſe, &amp; qu'il faloit que le Dieu du Parnaſſe euſt pris vn ſoin particulier pour ſon éducation.</p>
+            <pb n="4" facs="tcp:174894:4"/>
+            <!-- PDF PAGE 102 -->
+            <q>
+               <l>Il pareſſoit doux comme Octane;</l>
+               <l>Jamais Caton ne fût plus graue,</l>
+               <l>Et l'on peut dire auec raiſon,</l>
+               <l>Que puiſque la Nature en ſa perſonne aſſemble</l>
+               <l>Et les vertus d'Octaue &amp; celles de Caton,</l>
+               <l>Il vaut mieux que tous deux en<g ref="char:EOLhyphen"/>ſemble.</l>
+            </q>
+            <p>Ce qui me ſurprit dauantage &amp; ce qu'on auroit peine à croire,
+<q>
+                  <l>Ce fût de voir en luy ce qu'on voit rarement,</l>
+                  <l>D'vne floriſſante Jeuneſſe</l>
+                  <l>Et d'vne profonde Sageſſe</l>
+                  <l>L'aſſemblage noble &amp; charmant.</l>
+               </q>
+            </p>
+            <p>Le tour de ſon VISAGE imitoit à peu prés celuy de la face du Soleil; &amp; comme les ouurages les plus exquis qui ſortent de la main de l'Auteur de la Nature ont tous la forme circulaire, je n'eus pas beaucoup de peine à conclure ſur le champ, que ce qui ſaiſoit lors le ſujet de mes admirations pouvoit paſſer pour vne merveille du monde &amp; pour vn chef-d'oeuure de l'Immortel.</p>
+            <pb n="5" facs="tcp:174894:4"/>
+            <!-- PDF PAGE 102 -->
+            <q>
+               <l>Si le contour de ſon Viſage</l>
+               <l>Imitoit celuy du Soleil,</l>
+               <l>Il brilloit à mes yeux auec méme auantage</l>
+               <l>Que ce bel Aſtre ſans pareil.</l>
+            </q>
+            <p>Son FRONT me parût eſtre de ceux qui déſignent vn grand Jugement &amp; vne merveilleuſe force d'eſprit. Il ſembloit que la Prudence y auoit empraint ſon charactere pour le remarquer entre tous ceux qui l'approchent.</p>
+            <q>
+               <l>Et de là je conclus que ce grand Perſonage,</l>
+               <l>Que la Prudence auoit remarqué de ſon ſçeau,</l>
+               <l>Ne pouuoit s' égarer dans le cours de ſon âge,</l>
+               <l>Et qu'on l'y trouueroit méme dans le tombëau.</l>
+            </q>
+            <p>Ses YEUX eſtoient de la couleur du Ciel, lors qu'il eſt riant &amp; ſerain, autant qu'il le peut eſtre. Ils me fauoriſerent d'vn regard ſi doux &amp; ſi affable, que je m'imaginay reſſentir les agreables influences d'vn Soleil de Printems, lors qu'il rend la vie &amp; les beau<g ref="char:EOLhyphen"/>tez à la Nature que la rigueur de l'hyuer luy auoit à demy rauies. L'éclatante lumiere qui en ſortoit n'eſtoit point confuſe; car elle auoit autant d'iſſüe qu'il luy en faloît pour toute ſa ſplendeur.</p>
+            <pb n="6" facs="tcp:174894:5"/>
+            <!-- PDF PAGE 103 -->
+            <q>
+               <l>Le Ciel n'eut jamais l'auantage</l>
+               <l>Dans ſon plus brillant appareil</l>
+               <l>De faire voir plus d'vn Soleil;</l>
+               <l>Mais ce Diuin Mortel dans ſon charmant viſage</l>
+               <l>M'en fit remarquer deux:</l>
+               <l>Et de plus, au trauers du cryſtal de ſes yeux</l>
+               <l>Je vis vne ame &amp; ſi belle &amp; ſi pure,</l>
+               <l>Qu'on peut dire hardiment &amp; ſans faire vne injure</l>
+               <l>Au grand Maiſtre des Cieux</l>
+               <l>Qui fit cette ame &amp; ſi belle &amp; ſi pure,</l>
+               <l>Qu'il ne fit jamais mieux.</l>
+            </q>
+            <p>Sa BOUCHE me parût ſi rauiſſante que ma veüe ne ſuffiſoit pas pour l'examiner.</p>
+            <q>
+               <l>J'en penſay mille belles choſes,</l>
+               <l>Sur tout, que Flore auec touttes ſes roſes,</l>
+               <l>Et que le Dieu des eaux auec tout ſon coral</l>
+               <l>N'auoient rien d'approchant, pour ne pas dire égal,</l>
+               <l>De la viue couleur de ſes Leures charmantes;</l>
+               <l>Que les perles les plus brillantes</l>
+               <l>Cedoient à ſes dents en blancheur;</l>
+               <l>Que l' Amour s'eſtoit fait honneur</l>
+               <l>De former de ſes mains ce chef-d'oeuure admirable;</l>
+               <pb n="7" facs="tcp:174894:5"/>
+               <!-- PDF PAGE 103 -->
+               <l>Qu'enfin ce doux Tyran &amp; des Dieux &amp; des Rois</l>
+               <l>Eſtoit contraint quelque fois</l>
+               <l>D'emprunter le bel Arc de cette Bouche aimable</l>
+               <l>Pour décocher des traits ſur vn coeur indomptable</l>
+               <l>Et le reduire ſous ſes loix.</l>
+            </q>
+            <p>Le Coloris de ſon TEIN, qui n'eſtoit nitrop brun, ni trop paſle, releué d'vn agreable vermillon effacoit celuy des plus belles fleurs qui ſoient en la Nature. J'auoüe que j'en fûs ſurpris &amp; charmé tout à la fois; &amp; pour me rendre raiſon de ce qui cauſoit ma ſurpriſe &amp; me charmoit dans ce Diuin &amp; vivant Phantoſme, je me dis à moy-méme.</p>
+            <q>
+               <l>S'il eſtoit ſeulement fauori de l' Amour,</l>
+               <l>Si Mars ſeul recevoit ſa Cour,</l>
+               <l>Ou pourroit trouuer à redire</l>
+               <l>A ce Coloris que jádmire:</l>
+               <l>Mais eſtant de tous deux fidele adorateur,</l>
+               <l>Chacun l'a reueſtu de ſa propre couleur,</l>
+               <l>Et par ce mélange admirable,</l>
+               <l>Tous deux en luy remarquent leur ſemblable.</l>
+            </q>
+            <p>Sa TAILLE eſtoit grande, fine, &amp; bien
+<pb n="8" facs="tcp:174894:6"/>
+               <!-- PDF PAGE 104 -->dégagée; Elle n'auoit rien de groſſier ni d'élancé; mais tout ce qu'il faut pour eſtre parfaite,
+<q>
+                  <l>Pour pareſtre en Public auecque Majeſté,</l>
+                  <l>Dans vn noble exercice auec agilité,</l>
+                  <l>Dans le champ du Dieu Mars d'vne valeur ex<g ref="char:EOLhyphen"/>tréme,</l>
+                  <l>Dans le champ des Amours autant que l' Amour méme.</l>
+               </q>
+            </p>
+            <p>A le voir marcher deux pas ſeulement je n'eus pas de peine à me perſuader,
+<q>
+                  <l>Qu'il excelloit dans la dance,</l>
+                  <l>Et que toute fierté (ſoit dit ſans offenſer</l>
+                  <l>Les Belles qui d'amour veulent faire abſtinence)</l>
+                  <l>Je le redis, &amp; ſans trop l'encenſer,</l>
+                  <l>Toutte fierté, malgré ſa reſiſtance,</l>
+                  <l>Doit tomber en décadance</l>
+                  <l>Auſſi toſt qu'on le voit danſer.</l>
+               </q>
+            </p>
+            <p>Enfin tout en luy me parût acheuè, &amp; je crûs que la Nature épuiſée en ſa faueur auroit peine à produire vn autre qui luy reſſemblaſt. Je ne pouuois me laſ<g ref="char:EOLhyphen"/>ſer de le voir &amp; j'euſſe paſſé toute ma vie à le conſi<g ref="char:EOLhyphen"/>derer.</p>
+            <pb n="9" facs="tcp:174894:6"/>
+            <!-- PDF PAGE 104 -->
+            <q>
+               <l>En vn mot, il parût à mes yeux Adorable,</l>
+               <l>En Immortel humanizé,</l>
+               <l>Ou pour le moins, autant aimable</l>
+               <l>Qu'vn Mortel Immortalizé.</l>
+            </q>
+            <p>Tous mes ſens eſtoient penetrez du plaiſir quils reſſentoient à le contempler. L'extréme joye les auoit rendus inſenſibles pour toutte autre choſe, lors, Monſeigneur, que ce rauisſant objet diſparût à l'ap<g ref="char:EOLhyphen"/>proche d'vne perſonne qui me vint prendre pour al<g ref="char:EOLhyphen"/>ler rendre à V. A. ce que ſes inſignes vertus exigent de tout le monde.</p>
+            <q>
+               <l>Dés-lors que jeus les yeux ouverts,</l>
+               <l>Par vne diſgrace impreveûe,</l>
+               <l>Je perdis auſſi tost la veüe</l>
+               <l>Du plus aimable objet qui ſoit dans l'vnivers.</l>
+            </q>
+            <p>Je ne puis celer que cette perte me fût trés ſenſible. Le plaiſir que je me promettois de l'honneur de voir V. A. fût ſeul capable de me la rendre legere. Je ne me trompay pas dans ma penſée: car dés l'inſtant que j'eus l'auantage de l'enuiſager, mon bonheur me vint reſſaiſir, &amp; je découuris en elle la verite de ce qui
+<pb n="10" facs="tcp:174894:7"/>
+               <!-- PDF PAGE 105 -->m'auoit charmé par imagination. En effect, Mon<g ref="char:EOLhyphen"/>ſeigneur, je trouuay V. A. ſi Semblable à ce mer<g ref="char:EOLhyphen"/>ueilleux Phantoſme, dont mes ſens auoient eſté rauis à la faueur des tenebres du Someil, que je crûs voir en Elle l'Original, dont je n'auois veu que la copie.</p>
+            <q>
+               <l>Ainſy donc mon bonheur qui n'eſtoit qu' imparfait</l>
+               <l>Et qui m'auoit charmé ſeulement en idée,</l>
+               <l>Me revint charmer en effect,</l>
+               <l>Et mon ame fût poſſedée</l>
+               <l>D'vn plaiſir ſolide &amp; complet.</l>
+            </q>
+            <p>Je fûs obligé, Monſeigneur, de me retirer d'auprés V. A. &amp; faiſant reflexion ſur cette agreable auan<g ref="char:EOLhyphen"/>ture, je trouuay qu'elle ne provenoit que de mon Imagination fortement préoccupée de vos rares qua<g ref="char:EOLhyphen"/>litez &amp; de vos ineſtimables perfections, dont on m'auoit fait recit quelque tems auparauant;
+<q>
+                  <l>Ou plutost, que le Ciel par vn ſecret préſage</l>
+                  <l>Preſentoit à mes yeux cette charmante Image,</l>
+                  <l>Pour la faire paſſer enſuitte dans mon coeur,</l>
+                  <l>Et d'vne inuiolable ardeur</l>
+                  <l>Luy rendre vn éternel hommage.</l>
+               </q>
+            </p>
+            <pb n="11" facs="tcp:174894:7"/>
+            <!-- PDF PAGE 105 -->
+            <p>Je crûs auſſi quil eſtoit de mon deuoir de tracer ſur le papier cette prétieuſe Image, aprés l'auoir em<g ref="char:EOLhyphen"/>prainte dans mon coeur, tant pour pouuoir rendre à V. A. ce que je tiens d'Elle, que pour auoir lieu de luy offrir mon encens aux yeux de toute le monde, &amp; de faire voir à toutte la Terre que je mets ma plus grande gloire à luy conſacrer mes reſpects &amp; mes voeux, eſtant auec vne extréme veneration,</p>
+            <closer>
+               <salute>MONSEIGNEUR,</salute> 
+               <signed>
+                  <hi>De Voſtre Alteſſe</hi> Le trés-humble, &amp; trés-obeiſſant Seruiteur, <hi>DES-CHANTS</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
